@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thefoodheaven/static/css/main.52cfca78.chunk.css",
-    "main.js": "/thefoodheaven/static/js/main.2fed4e43.chunk.js",
-    "main.js.map": "/thefoodheaven/static/js/main.2fed4e43.chunk.js.map",
+    "main.js": "/thefoodheaven/static/js/main.c1b5b8c8.chunk.js",
+    "main.js.map": "/thefoodheaven/static/js/main.c1b5b8c8.chunk.js.map",
     "runtime-main.js": "/thefoodheaven/static/js/runtime-main.3e65f374.js",
     "runtime-main.js.map": "/thefoodheaven/static/js/runtime-main.3e65f374.js.map",
     "static/css/2.ce67c855.chunk.css": "/thefoodheaven/static/css/2.ce67c855.chunk.css",
     "static/js/2.90705e0f.chunk.js": "/thefoodheaven/static/js/2.90705e0f.chunk.js",
     "static/js/2.90705e0f.chunk.js.map": "/thefoodheaven/static/js/2.90705e0f.chunk.js.map",
     "index.html": "/thefoodheaven/index.html",
-    "precache-manifest.5b46938ec5d4c8af05dbf6c7ab3ad2d6.js": "/thefoodheaven/precache-manifest.5b46938ec5d4c8af05dbf6c7ab3ad2d6.js",
+    "precache-manifest.41861b72d1b9aa805c7809158c0339c9.js": "/thefoodheaven/precache-manifest.41861b72d1b9aa805c7809158c0339c9.js",
     "service-worker.js": "/thefoodheaven/service-worker.js",
     "static/css/2.ce67c855.chunk.css.map": "/thefoodheaven/static/css/2.ce67c855.chunk.css.map",
     "static/css/main.52cfca78.chunk.css.map": "/thefoodheaven/static/css/main.52cfca78.chunk.css.map",
@@ -36,6 +36,6 @@
     "static/css/2.ce67c855.chunk.css",
     "static/js/2.90705e0f.chunk.js",
     "static/css/main.52cfca78.chunk.css",
-    "static/js/main.2fed4e43.chunk.js"
+    "static/js/main.c1b5b8c8.chunk.js"
   ]
 }

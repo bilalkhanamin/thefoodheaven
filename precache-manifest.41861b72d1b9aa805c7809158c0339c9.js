@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "377a87f7d0606204133e6b6fbdd31cb1",
+    "revision": "0ca8f05a60149313dbf62701dd1261ad",
     "url": "/thefoodheaven/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thefoodheaven/static/css/2.ce67c855.chunk.css"
   },
   {
-    "revision": "915545ed478e99748ff1",
+    "revision": "64bec8d2222a65a22edb",
     "url": "/thefoodheaven/static/css/main.52cfca78.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thefoodheaven/static/js/2.90705e0f.chunk.js.LICENSE"
   },
   {
-    "revision": "915545ed478e99748ff1",
-    "url": "/thefoodheaven/static/js/main.2fed4e43.chunk.js"
+    "revision": "64bec8d2222a65a22edb",
+    "url": "/thefoodheaven/static/js/main.c1b5b8c8.chunk.js"
   },
   {
     "revision": "eaa2b7077a5d22b25aaf",
