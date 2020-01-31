@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/thefoodheaven/static/css/main.52cfca78.chunk.css",
+    "main.js": "/thefoodheaven/static/js/main.2fed4e43.chunk.js",
+    "main.js.map": "/thefoodheaven/static/js/main.2fed4e43.chunk.js.map",
+    "runtime-main.js": "/thefoodheaven/static/js/runtime-main.3e65f374.js",
+    "runtime-main.js.map": "/thefoodheaven/static/js/runtime-main.3e65f374.js.map",
+    "static/css/2.ce67c855.chunk.css": "/thefoodheaven/static/css/2.ce67c855.chunk.css",
+    "static/js/2.90705e0f.chunk.js": "/thefoodheaven/static/js/2.90705e0f.chunk.js",
+    "static/js/2.90705e0f.chunk.js.map": "/thefoodheaven/static/js/2.90705e0f.chunk.js.map",
+    "index.html": "/thefoodheaven/index.html",
+    "precache-manifest.5b46938ec5d4c8af05dbf6c7ab3ad2d6.js": "/thefoodheaven/precache-manifest.5b46938ec5d4c8af05dbf6c7ab3ad2d6.js",
+    "service-worker.js": "/thefoodheaven/service-worker.js",
+    "static/css/2.ce67c855.chunk.css.map": "/thefoodheaven/static/css/2.ce67c855.chunk.css.map",
+    "static/css/main.52cfca78.chunk.css.map": "/thefoodheaven/static/css/main.52cfca78.chunk.css.map",
+    "static/js/2.90705e0f.chunk.js.LICENSE": "/thefoodheaven/static/js/2.90705e0f.chunk.js.LICENSE",
+    "static/media/1.png": "/thefoodheaven/static/media/1.5987700a.png",
+    "static/media/2.png": "/thefoodheaven/static/media/2.d66ea1de.png",
+    "static/media/3.png": "/thefoodheaven/static/media/3.b24fcd7a.png",
+    "static/media/4.png": "/thefoodheaven/static/media/4.d2c1c09e.png",
+    "static/media/style.css": "/thefoodheaven/static/media/taste_best.b6f75ec7.jpg",
+    "static/media/facebook.svg": "/thefoodheaven/static/media/facebook.52185247.svg",
+    "static/media/hamburger.svg": "/thefoodheaven/static/media/hamburger.139442da.svg",
+    "static/media/instagram.svg": "/thefoodheaven/static/media/instagram.323c7718.svg",
+    "static/media/logo.svg": "/thefoodheaven/static/media/logo.fc8475c2.svg",
+    "static/media/page1.jpg": "/thefoodheaven/static/media/page1.bfd39ac5.jpg",
+    "static/media/page2.jpg": "/thefoodheaven/static/media/page2.05190203.jpg",
+    "static/media/page3.jpg": "/thefoodheaven/static/media/page3.0a3699cd.jpg",
+    "static/media/page4.jpg": "/thefoodheaven/static/media/page4.87c6558a.jpg",
+    "static/media/page5.jpg": "/thefoodheaven/static/media/page5.7a107399.jpg",
+    "static/media/slick-theme.css": "/thefoodheaven/static/media/slick.f97e3bbf.svg",
+    "static/media/twitter.svg": "/thefoodheaven/static/media/twitter.05d8cfef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e65f374.js",
+    "static/css/2.ce67c855.chunk.css",
+    "static/js/2.90705e0f.chunk.js",
+    "static/css/main.52cfca78.chunk.css",
+    "static/js/main.2fed4e43.chunk.js"
+  ]
+}
