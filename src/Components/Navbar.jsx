@@ -35,6 +35,9 @@ class Navbar extends Component {
 
   top = () => {
     window.scrollTo(0,0);
+    this.setState({
+         isOpen: false
+      });
   }
 
   render() {
